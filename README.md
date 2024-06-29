@@ -23,7 +23,6 @@ This is a Flask-based web application with user registration, login, logout, and
 - Flask-Login
 - Bootstrap
 
-## Project Structure
 
 
 
